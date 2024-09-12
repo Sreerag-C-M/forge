@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804654474318",
+    "project_id": "forge-d3386",
+    "storage_bucket": "forge-d3386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804654474318:android:2f9ac24d57881fbb7e4f1f",
+        "android_client_info": {
+          "package_name": "com.example.forge_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804654474318-nlrpjedlf473b5qiuuffr3g935o2nmrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forge_final",
+            "certificate_hash": "3ebc188e6c15a9e84ca5aba6b9380aaed6cf0f63"
+          }
+        },
+        {
+          "client_id": "804654474318-ba39sl4jsphpdlbt8mm5kjdkb0gksr4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZlF0KxC5eOSEwOxg9qj_Vrp-VeBUWas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804654474318-ba39sl4jsphpdlbt8mm5kjdkb0gksr4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
